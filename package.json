@@ -6,7 +6,8 @@
   "private": true,
   "main": "src/server.js",
   "scripts": {
-    "start": "wrangler dev"
+    "start": "wrangler dev",
+    "publish": "wrangler publish"
   },
   "keywords": [],
   "author": "",
